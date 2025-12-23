@@ -8,3 +8,9 @@ A computational chemistry tool that automates the generation of pre-reaction com
 
 ```bash
 pip install numpy rdkit
+
+## To-do list
+
+- Improve error handling
+- Add example cases
+- Endo/exo selectivity
